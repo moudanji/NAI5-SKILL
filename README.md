@@ -1,6 +1,6 @@
 NAI5提示词书写，漫画和反推  SKILL，由B站和PIXIV上的 某单机游戏爱好者 制作  。这是第五版，
-如有问题，请去https://discord.gg/hh8cHUCHCh  或者QQ群 1067312194  反馈
-哦对了，我的PIXIV是https://www.pixiv.net/users/69762664，   没点关注的可以点点关注
+如有问题，请去  https://discord.gg/hh8cHUCHCh   或者QQ群 1067312194  反馈
+哦对了，我的PIXIV是https://www.pixiv.net/users/69762664   没点关注的可以点点关注
 
 <img width="167" height="113" alt="QQ20260829-222322" src="https://github.com/user-attachments/assets/9654c8e0-8a10-4b0e-93af-0dba5d3d3b61" />
 
