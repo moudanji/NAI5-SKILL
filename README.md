@@ -1,7 +1,8 @@
-<img width="589" height="865" alt="QQ20260829-223435" src="https://github.com/user-attachments/assets/405ade7d-961d-472b-9a34-e5847bc6ef57" />NAI5提示词书写，漫画和反推  SKILL，由B站和PIXIV上的 某单机游戏爱好者 制作  。这是第五版，
+NAI5提示词书写，漫画和反推  SKILL，由B站和PIXIV上的 某单机游戏爱好者 制作  。这是第五版，
 如有问题，请去https://discord.gg/hh8cHUCHCh  或者QQ群 1067312194  反馈
 哦对了，我的PIXIV是https://www.pixiv.net/users/69762664，没点关注的可以点点关注
 <img width="167" height="113" alt="QQ20260829-222322" src="https://github.com/user-attachments/assets/9654c8e0-8a10-4b0e-93af-0dba5d3d3b61" />
+
 功能 ：除了基础的写提示词之外，他还能够一次性。生成带有分镜的复杂漫画提示词，以及复杂构图，反推能力
 特色：这个SKILL写的提示词，除非特殊要求，否则，模型认识的版权角色不会带有眼睛，头发，衣服相关的提示词内容。
 
