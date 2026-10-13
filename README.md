@@ -1,5 +1,5 @@
 本SKILL的通用构思和通用写法部分，参考了Miint-Sunny制作的https://github.com/Miint-Sunny/nai5-prompting
-其余部分，由B站和PIXIV上的 某单机游戏爱好者整理制作。
+涉及到多人，站位相关的部分，以及漫画制作，图片反推，复杂构图的部分，由B站和PIXIV上的 某单机游戏爱好者整理制作。
 如有问题，请去  https://discord.gg/hh8cHUCHCh   或者QQ群 1067312194  反馈
 哦对了，我的PIXIV是https://www.pixiv.net/users/69762664   没点关注的可以点点关注
 
